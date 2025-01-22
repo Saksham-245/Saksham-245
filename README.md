@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshammathur25" target="blank"><img src="https://img.shields.io/twitter/follow/sakshammathur25?logo=twitter&style=for-the-badge" alt="sakshammathur25" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **ReactJS,Javascript,React Native**
+- 💬 Ask me about **ReactJS,Javascript,React Native,Nodejs**
 
 - 📫 How to reach me **saksham.mathur25@gmail.com**
 
